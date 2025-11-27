@@ -1,4 +1,7 @@
 # Skrupskelyte_etal_SI_code
+
+[![DOI](https://zenodo.org/badge/1067167952.svg)](https://doi.org/10.5281/zenodo.17734455)
+
 ## Overview
 
 This repository contains R code used to produce analyses and figures for the supplementary information accompanying Skrupskelyte et al. The scripts perform data processing, statistical analyses and generate plots used in the manuscript's supplementary materials.
