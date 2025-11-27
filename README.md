@@ -1,6 +1,12 @@
 # Skrupskelyte_etal_SI_code
 
-[![DOI](https://zenodo.org/badge/1067167952.svg)](https://doi.org/10.5281/zenodo.17734455)
+
+
+
+
+<a href="https://doi.org/10.5281/zenodo.17734456"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.17734456.svg" alt="DOI"></a>
+
+
 
 ## Overview
 
